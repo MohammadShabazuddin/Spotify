@@ -6,6 +6,8 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/MohammadShabazuddin/Spotify)
 ![GitHub license](https://img.shields.io/github/license/MohammadShabazuddin/Spotify)
 
+<img width="949" alt="image" src="https://github.com/MohammadShabazuddin/Spotify/assets/44221567/acb27bd8-5a6d-4c5a-abbc-b7466416074c">
+
 ## Table of Contents 📑
 - [Overview](#overview)
 - [Features](#features)
@@ -26,7 +28,7 @@ This project is a Spotify clone that simulates the basic functionalities of the 
 - **Playlist Management:** Create and manage personal playlists.
 
 ## Technologies Used 🛠️
-- **React:** for the front end.
+- **HTML, CSS, JAVAScript, React:** for the front end.
 - **Node.js:** for the back end.
 - **MongoDB:** for the database.
 
